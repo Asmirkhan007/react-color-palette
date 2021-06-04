@@ -12,16 +12,21 @@ You can use the App in this site: https://asmirkhan007.github.io/react-color-pal
 
 ##😍 Pages
 
-#Home-Page
+
+            Home-Page
+            
 ![image](https://i.imgur.com/9x1F9At.png)
 
-#Palette-Page
+            Palette-Page
+            
 ![image](https://i.imgur.com/GM0etHA.png)
 
-#Create New Palette
+           Create New Palette
+           
 ![image](https://i.imgur.com/QB2zRzf.png)
 
-#Responsive Mobile View
+           Responsive Mobile View
+
 ![image](https://i.imgur.com/aFowgNg.png)
 
 
